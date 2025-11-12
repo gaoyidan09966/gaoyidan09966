@@ -17,7 +17,7 @@
 🧋 爱好：钻研新技术 · 开发可爱小项目 · 奶茶治愈日常<br/>
 🌈 目标：成为能独立完成前后端开发的全栈工程师<br/>
 📫 联系我：<a href="mailto:svip888ws@foxmail.com" style="color:#ff7cae;">svip888ws@foxmail.com</a><br/>
-📱 企鹅号：<b style="color:#ff7cae;">2517441744</b>
+📱 BiliBili：<b style="color:#ff7cae;"><a href="https://space.bilibili.com/1772424360?spm_id_from=333.1007.0.0">bilibili</a>4</b>  
 </p>
 
 ---
