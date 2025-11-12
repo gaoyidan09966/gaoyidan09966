@@ -11,11 +11,11 @@
 ### 🩷 About Me
 
 🎓 就读于 **西安交通大学城市学院 · 软件工程**  
-🧠 方向：**前端 & 全栈开发** （HTML5 · CSS3 · JavaScript · Vue3 · Node.js · Express · MySQL）  
+🧠 方向：**前端 & 全栈开发** （HTML5 · CSS3 · JavaScript · Vue3 · Node.js · Express · MySQL ）  
 🧋 爱好：钻研新技术 · 开发可爱小项目 · 奶茶治愈日常  
 🌈 目标：成为能独立完成前后端开发的全栈工程师  
 📫 联系我：**svip888ws@foxmail.com**  
-📱 手机号：**130-8098-3262**
+📱 企鹅号：**2517441744**
 
 ---
 
