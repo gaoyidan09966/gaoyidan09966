@@ -29,47 +29,98 @@
 
 ---
 
-### 🧸 Tech & Tools
+<h2 align="center">🌸 My Lovely Tech Wall 🧁</h2>
 
-<p align="center">
-  <!-- 基础技能 -->
-  <img src="https://img.shields.io/badge/💻_HTML5-ffb6c1?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/🎨_CSS3-ffcce0?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/✨_JavaScript-ffb3da?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/🪄_TypeScript-ff99c8?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/🌷_Vue3-ffb6c1?style=for-the-badge&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/⚡_Vite-ffcce0?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/💎_React-ffb6c1?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/🍡_TailwindCSS-ffb3da?style=for-the-badge&logo=tailwindcss"/>
+<style>
+  .skill-wall {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    margin: 20px auto;
+    max-width: 800px;
+  }
 
-  <!-- 后端 -->
-  <img src="https://img.shields.io/badge/🧋_Node.js-ffb6c1?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/🍀_Express-ffcce0?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/🪶_NestJS-ffb3da?style=for-the-badge&logo=nestjs"/>
-  <img src="https://img.shields.io/badge/⚙️_RESTful_API-ffb6c1?style=for-the-badge"/>
+  .skill-card {
+    background: linear-gradient(135deg, #ffe6f2, #ffd6eb);
+    border-radius: 12px;
+    padding: 12px 22px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ff4c8b;
+    box-shadow: 0 4px 12px rgba(255, 182, 193, 0.35);
+    cursor: default;
+    user-select: none;
+    transition: all 0.3s ease;
+  }
 
-  <!-- 数据库 -->
-  <img src="https://img.shields.io/badge/🌸_MySQL-ff99c8?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/🍀_MongoDB-ffb6c1?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/🧠_Redis-ffcce0?style=for-the-badge&logo=redis"/>
+  .skill-card:hover {
+    transform: translateY(-8px) scale(1.08);
+    box-shadow: 0 8px 20px rgba(255, 105, 180, 0.6);
+    background: linear-gradient(135deg, #ffd6eb, #ffe6f2);
+    color: #d81e5b;
+  }
 
-  <!-- DevOps & 云 -->
-  <img src="https://img.shields.io/badge/☁️_Docker-ffb3da?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/🌐_Nginx-ffb6c1?style=for-the-badge&logo=nginx"/>
-  <img src="https://img.shields.io/badge/🚀_Vercel-ffb6c1?style=for-the-badge&logo=vercel"/>
-  <img src="https://img.shields.io/badge/🪩_GitHub_Actions-ffcce0?style=for-the-badge&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/💫_Netlify-ff99c8?style=for-the-badge&logo=netlify"/>
+  /* 适配小屏幕 */
+  @media (max-width: 480px) {
+    .skill-card {
+      font-size: 14px;
+      padding: 10px 16px;
+    }
+  }
+</style>
 
-  <!-- 工具 -->
-  <img src="https://img.shields.io/badge/🧩_Git-ffb6c1?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/🪶_VS_Code-ffcce0?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/🎀_Postman-ffb3da?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/🧁_Figma-ff99c8?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/🎨_Photoshop-ffcce0?style=for-the-badge&logo=adobephotoshop"/>
-  <img src="https://img.shields.io/badge/🍰_Notion-ffb6c1?style=for-the-badge&logo=notion"/>
-  <img src="https://img.shields.io/badge/🌼_Markdown-ffb3da?style=for-the-badge&logo=markdown"/>
-  <img src="https://img.shields.io/badge/💖_Fullstack_Dreamer-ff99c8?style=for-the-badge"/>
-</p>
+<div class="skill-wall">
+  <div class="skill-card">💻 HTML5</div>
+  <div class="skill-card">🎨 CSS3</div>
+  <div class="skill-card">✨ JavaScript</div>
+  <div class="skill-card">🪄 TypeScript</div>
+  <div class="skill-card">🌷 Vue3</div>
+  <div class="skill-card">💎 React</div>
+  <div class="skill-card">⚡ Vite</div>
+  <div class="skill-card">🧋 Node.js</div>
+  <div class="skill-card">🍀 Express</div>
+  <div class="skill-card">🪶 NestJS</div>
+  <div class="skill-card">🌸 MySQL</div>
+  <div class="skill-card">🍡 MongoDB</div>
+  <div class="skill-card">🧠 Redis</div>
+  <div class="skill-card">🚀 Vercel</div>
+  <div class="skill-card">☁️ Docker</div>
+  <div class="skill-card">🌐 Nginx</div>
+  <div class="skill-card">🎀 Postman</div>
+  <div class="skill-card">🧁 Figma</div>
+  <div class="skill-card">🍰 Notion</div>
+  <div class="skill-card">🧩 Git</div>
+  <div class="skill-card">🪶 VS Code</div>
+</div>
+
+---
+
+<h2 align="center">💖 My Interactive Skill Cloud ☁️</h2>
+
+<div align="center" id="skillCloud" style="width: 380px; height: 380px; margin: 0 auto;"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/tagcloud@2.2.0/dist/TagCloud.min.js"></script>
+<script>
+  const skills = [
+    "HTML5", "CSS3", "JavaScript", "TypeScript", "Vue3", "React", "Vite",
+    "Node.js", "Express", "NestJS", "MySQL", "MongoDB", "Redis",
+    "Docker", "Vercel", "Nginx", "Git", "VS Code", "Postman",
+    "Figma", "Notion", "Photoshop", "TailwindCSS"
+  ];
+
+  const options = {
+    radius: 160,
+    maxSpeed: "normal",
+    initSpeed: "slow",
+    direction: 135,
+    keep: true,
+    // 字体颜色粉系渐变
+    // 这里用动态方式给每个tag加颜色，如果想纯CSS改更复杂，暂时用默认白色也可以
+  };
+
+  TagCloud("#skillCloud", skills, options);
+</script>
 
 ---
 
