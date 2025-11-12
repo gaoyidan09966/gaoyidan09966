@@ -11,7 +11,7 @@
 ### 🩷 About Me
 
 🎓 就读于 **西安交通大学城市学院 · 软件工程**  
-🧠 方向：**前端 & 全栈开发** （HTML5 · CSS3 · JavaScript · Vue3 · Node.js · Express · MySQL ）  
+🧠 方向：**前端 & 全栈开发** （HTML5 · CSS3 · JavaScript · Vue3 · Node.js · Express · MySQL · MongoDB）  
 🧋 爱好：钻研新技术 · 开发可爱小项目 · 奶茶治愈日常  
 🌈 目标：成为能独立完成前后端开发的全栈工程师  
 📫 联系我：**svip888ws@foxmail.com**  
@@ -34,9 +34,11 @@
   <img src="https://img.shields.io/badge/💻_Code-Love!-ffb6c1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🌷_Frontend-Vue3-ffcce0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🧋_Backend-Node.js-ffb3da?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💖_Fullstack-Dreamer-ff99c8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🪄_Database-MySQL-ffcce0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🌈_UI-Love!-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🍀_Database-MongoDB-ffb6c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌈_UI-Love!-ffb3da?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💖_Fullstack-Dreamer-ff99c8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🪶_Tools-Git_&_VSCode-ffcce0?style=for-the-badge"/>
 </p>
 
 ---
