@@ -1,4 +1,6 @@
-<h2 align="center">🌸 Welcome to My Sweet GitHub World 🧁</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3000&pause=1000&color=FF9ACD&center=true&vCenter=true&width=600&lines=🌸+Welcome+to+My+Sweet+GitHub+World!+🧁;Hi,+I'm+Wang+Shuai+💖;Let's+Code+Something+Cute!+✨" alt="Typing SVG" />
+</h2>
 
 <p align="center">
   💻 嗨，我是 <b>王帅</b>，一名热爱编程的计算机系学生 💕<br/>
@@ -62,4 +64,8 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gaoyidan09966/gaoyidan09966/main/assets/cute-divider-pink.gif" width="360" alt="cute divider"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/0Z8FdrP.gif" width="200" alt="sparkly hearts animation"/>
 </p>
