@@ -10,32 +10,12 @@
 
 ### 🩷 About Me
 
-🎓 就读于 **西安交通大学城市学院 · 软件工程**  
-📚 方向：前端 & 全栈（HTML5 · CSS3 · JavaScript · Vue3 · Node.js · Express · MySQL）  
-🧋 爱好：钻研新技术 · 做小项目 · 奶茶治愈日常  
-🌈 目标：成为能独立完成前后端开发的全栈工程师  
-📫 联系我：**svip888ws@foxmail.com**  
-📱 手机号：**130-8098-3262**
-
----
-
-### 💖 Tech Stack
-
-<p align="center">
-  🩷 <b>Frontend：</b> HTML5 · CSS3 · JavaScript · Vue3 · Element Plus · 动效设计<br/>
-  💜 <b>Backend：</b> Node.js · Express · RESTful API · MySQL · MongoDB<br/>
-  💙 <b>Others：</b> Git · Webpack · Linux · 数据结构与算法 · 软件测试
-</p>
-
----
-
-### 🌟 Mini Project Highlights
-
-<p align="center">
-  🍓 <b>✨ Cute Chat</b> — Vue + Node 聊天室，带消息分页与图片上传<br/>
-  🌷 <b>🍰 Blog Me</b> — Vue3 + MongoDB 博客系统，前后端分离<br/>
-  🧋 <b>☕ Kudi Café</b> — 模仿库迪咖啡官网首页的静态展示页
-</p>
+🎓 就读于 **西安交通大学城市学院 · 软件工程**  💖
+📚 方向：前端 & 全栈（HTML5 · CSS3 · JavaScript · Vue3 · Node.js · Express · MySQL）  🩷 
+🧋 爱好：钻研新技术 · 做小项目 · 奶茶治愈日常  💜
+🌈 目标：成为能独立完成前后端开发的全栈工程师  💙
+📫 联系我：**svip888ws@foxmail.com**  🩷 
+📱 手机号：**130-8098-3262** 💙
 
 ---
 
