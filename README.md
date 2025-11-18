@@ -1,7 +1,7 @@
 <h2 align="center">🌸 Welcome to My Sweet GitHub World 🧁</h2>
 
 <p align="center" style="font-size:18px;line-height:1.6;">
-  💻 嗨，我是 <b style="color:#ff7cae;">王帅</b>，一名热爱编程的计算机系学生 💕<br/>
+  💻 嗨，我是 <b style="color:#ff7cae;">王帅</b>，一名热爱编程的计算机系学生  💕<br/>
   ✨ 喜欢把代码写得优雅又可爱，也喜欢收集贴纸和喝奶茶 🍰🧋<br/>
   🌷 希望我的小项目能带给你灵感与微笑～
 </p>
