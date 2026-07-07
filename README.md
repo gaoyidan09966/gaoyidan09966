@@ -22,6 +22,30 @@
 
 ---
 
+### 💼 接单中 · Open for Work 🧋
+
+<p align="center" style="font-size:16px;line-height:1.8;">
+  ✨ <b style="color:#ff7cae;">👩‍💻 前端 & 全栈小项目接单啦～</b> ✨<br/><br/>
+  🍰 <b>我可以做什么？</b><br/>
+  • 前端页面开发（Vue3 / React / Vite）<br/>
+  • 静态博客 / 个人主页 / 作品集网站 ✨<br/>
+  • 后台管理系统前端 + 接口联调<br/>
+  • 小程序原型 / H5 活动页 / 可爱风 UI 实现<br/>
+  • 毕业设计 / 课程实验 / Demo 快速交付<br/>
+  • 现有项目 Bug 修复 & 样式美化 🎀<br/><br/>
+  💌 <b>接单说明</b><br/>
+  学生党友好 · 预算灵活 · 沟通耐心 · 交付靠谱<br/>
+  长期维护 & 教学式交付，适合新手参考学习 📚<br/><br/>
+  📮 <b>联系我下单</b><br/>
+  <a href="mailto:svip888ws@foxmail.com" style="color:#ff7cae; font-weight:bold;">✉️ svip888ws@foxmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF8FAB&center=true&vCenter=true&width=500&lines=%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%2C+%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%85%A2%E6%85%A2%E6%94%B9%E9%80%A0%E4%B8%96%E7%95%8C~+%F0%9F%A7%8B" alt="Typing SVG" />
+</p>
+
+---
+
 ### 🌸 GitHub Stats
 
 <p align="center">
